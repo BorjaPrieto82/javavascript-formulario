@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+}
+
+a {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: white;
+    border: 2px solid black;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+form {
+    max-width: 450px;
+    margin: 20px auto;
+    text-align: left;
+    background-color: white;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+form div {
+    margin-bottom: 8px;
+}
+
+label {
+    display: inline-block;
+    width: 180px;
+    text-align: right;
+    margin-right: 10px;
+}
+
+input {
+    width: 200px;
+}
+
+input [type="file"] {
+    width: 220px;
+}
+
+button {
+    display: block;
+    margin: 15px auto;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
